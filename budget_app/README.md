@@ -16,8 +16,23 @@ Track income, expenses, and transfers across categories using an interactive web
    - Or run in terminal: `streamlit run budget_app_streamlit.py`
 3. The app will open at `http://localhost:8501`
 
-## 📷 Screenshot
-(Add one if you'd like!)
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](screenshot1.png)
+
+### ➕ Adding a Category
+![Add Category](screenshot2.png)
+
+### 💵 Deposit
+![Deposit and Withdraw](screenshot3.png)
+
+### 💸 Withdraw
+![Transfer](screenshot4.png)
+
+### 📄 Ledger View
+![Ledger](screenshot5.png)
+
 
 ## 👩‍💻 Built With
 - Python
