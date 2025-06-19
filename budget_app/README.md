@@ -19,19 +19,19 @@ Track income, expenses, and transfers across categories using an interactive web
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](screenshot1.png)
+![Home](Screenshot1.png)
 
 ### ➕ Adding a Category
-![Add Category](screenshot2.png)
+![Add Category](Screenshot2.png)
 
 ### 💵 Deposit
-![Deposit and Withdraw](screenshot3.png)
+![Deposit and Withdraw](Screenshot3.png)
 
 ### 💸 Withdraw
-![Transfer](screenshot4.png)
+![Transfer](Screenshot4.png)
 
 ### 📄 Ledger View
-![Ledger](screenshot5.png)
+![Ledger](Screenshot5.png)
 
 
 ## 👩‍💻 Built With
