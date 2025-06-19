@@ -24,10 +24,10 @@ Track income, expenses, and transfers across categories using an interactive web
 ### ➕ Adding a Category
 ![Add Category](Screenshot2.png)
 
-### 💵 Deposit
+### 💵 Deposit & Wiithdraw
 ![Deposit and Withdraw](Screenshot3.png)
 
-### 💸 Withdraw
+### 💸 Transfer
 ![Transfer](Screenshot4.png)
 
 ### 📄 Ledger View
